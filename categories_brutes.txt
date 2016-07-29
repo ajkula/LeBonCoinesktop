@@ -1,0 +1,248 @@
+<div>
+<ul><li class="title"><a href="" data-category="0">Toutes cat&eacute;gories</a></li></ul>
+<ul>
+
+
+<li class="title"><a href="" data-category="71" class="">
+EMPLOI
+</a></li>
+
+<li><a href="" data-category="33" class="">
+Offres d'emploi
+</a></li>
+
+
+<li class="title"><a href="" data-category="1" class="">
+VEHICULES
+</a></li>
+
+<li><a href="" data-category="2" class="">
+Voitures
+</a></li>
+<li><a href="" data-category="3" class="">
+Motos
+</a></li>
+<li><a href="" data-category="4" class="">
+Caravaning
+</a></li>
+<li><a href="" data-category="5" class="">
+Utilitaires
+</a></li>
+<li><a href="" data-category="6" class="">
+Equipement Auto
+</a></li>
+<li><a href="" data-category="44" class="">
+Equipement Moto
+</a></li>
+<li><a href="" data-category="50" class="">
+Equipement Caravaning
+</a></li>
+<li><a href="" data-category="7" class="">
+Nautisme
+</a></li>
+<li><a href="" data-category="51" class="">
+Equipement Nautisme
+</a></li>
+
+</ul></div><div><ul> 
+<li class="title"><a href="" data-category="8" class="">
+IMMOBILIER
+</a></li>
+
+<li><a href="" data-category="9" class="">
+Ventes immobilières
+</a></li>
+<li><a href="" data-category="10" class="">
+Locations
+</a></li>
+<li><a href="" data-category="11" class="">
+Colocations
+</a></li>
+<li><a href="" data-category="13" class="">
+Bureaux &amp; Commerces
+</a></li>
+
+
+<li class="title"><a href="" data-category="66" class="">
+VACANCES
+</a></li>
+
+<li><a href="" data-category="12" class="">
+Locations &amp; Gîtes
+</a></li>
+<li><a href="" data-category="67" class="">
+Chambres d'hôtes
+</a></li>
+<li><a href="" data-category="68" class="">
+Campings
+</a></li>
+<li><a href="" data-category="69" class="">
+Hôtels
+</a></li>
+<li><a href="" data-category="70" class="">
+Hébergements insolites
+</a></li>
+
+</ul></div><div><ul> 
+<li class="title"><a href="" data-category="14" class="">
+MULTIMEDIA
+</a></li>
+
+<li><a href="" data-category="15" class="">
+Informatique
+</a></li>
+<li><a href="" data-category="43" class="">
+Consoles &amp; Jeux vidéo
+</a></li>
+<li><a href="" data-category="16" class="">
+Image &amp; Son
+</a></li>
+<li><a href="" data-category="17" class="">
+Téléphonie
+</a></li>
+
+
+<li class="title"><a href="" data-category="24" class="">
+LOISIRS
+</a></li>
+
+<li><a href="" data-category="25" class="">
+DVD / Films
+</a></li>
+<li><a href="" data-category="26" class="">
+CD / Musique
+</a></li>
+<li><a href="" data-category="27" class="">
+Livres
+</a></li>
+<li><a href="" data-category="28" class="">
+Animaux
+</a></li>
+<li><a href="" data-category="55" class="">
+Vélos
+</a></li>
+<li><a href="" data-category="29" class="">
+Sports &amp; Hobbies
+</a></li>
+<li><a href="" data-category="30" class="">
+Instruments de musique
+</a></li>
+<li><a href="" data-category="40" class="">
+Collection
+</a></li>
+<li><a href="" data-category="41" class="">
+Jeux &amp; Jouets
+</a></li>
+<li><a href="" data-category="48" class="">
+Vins &amp; Gastronomie
+</a></li>
+
+</ul></div><div><ul> 
+<li class="title"><a href="" data-category="56" class="">
+MATERIEL PROFESSIONNEL
+</a></li>
+
+<li><a href="" data-category="57" class="">
+Matériel Agricole
+</a></li>
+<li><a href="" data-category="58" class="">
+Transport - Manutention
+</a></li>
+<li><a href="" data-category="59" class="">
+BTP - Chantier Gros-oeuvre
+</a></li>
+<li><a href="" data-category="60" class="">
+Outillage - Matériaux 2nd-oeuvre
+</a></li>
+<li><a href="" data-category="32" class="">
+Équipements Industriels
+</a></li>
+<li><a href="" data-category="61" class="">
+Restauration - Hôtellerie
+</a></li>
+<li><a href="" data-category="62" class="">
+Fournitures de Bureau
+</a></li>
+<li><a href="" data-category="63" class="">
+Commerces &amp; Marchés
+</a></li>
+<li><a href="" data-category="64" class="">
+Matériel Médical
+</a></li>
+
+
+<li class="title"><a href="" data-category="31" class="">
+SERVICES
+</a></li>
+
+<li><a href="" data-category="34" class="">
+Prestations de services
+</a></li>
+<li><a href="" data-category="35" class="">
+Billetterie
+</a></li>
+<li><a href="" data-category="49" class="">
+Evénements
+</a></li>
+<li><a href="" data-category="36" class="">
+Cours particuliers
+</a></li>
+<li><a href="" data-category="65" class="">
+Covoiturage
+</a></li>
+
+</ul></div><div><ul> 
+<li class="title"><a href="" data-category="18" class="">
+MAISON
+</a></li>
+
+<li><a href="" data-category="19" class="">
+Ameublement
+</a></li>
+<li><a href="" data-category="20" class="">
+Electroménager
+</a></li>
+<li><a href="" data-category="45" class="">
+Arts de la table
+</a></li>
+<li><a href="" data-category="39" class="">
+Décoration
+</a></li>
+<li><a href="" data-category="46" class="">
+Linge de maison
+</a></li>
+<li><a href="" data-category="21" class="">
+Bricolage
+</a></li>
+<li><a href="" data-category="52" class="">
+Jardinage
+</a></li>
+<li><a href="" data-category="22" class="">
+Vêtements
+</a></li>
+<li><a href="" data-category="53" class="">
+Chaussures
+</a></li>
+<li><a href="" data-category="47" class="">
+Accessoires &amp; Bagagerie
+</a></li>
+<li><a href="" data-category="42" class="">
+Montres &amp; Bijoux
+</a></li>
+<li><a href="" data-category="23" class="">
+Equipement bébé
+</a></li>
+<li><a href="" data-category="54" class="">
+Vêtements bébé
+</a></li>
+
+
+
+<li class="title"><a href="" data-category="37" class="">Autres</a></li>
+
+<li><a href="" data-category="38" class="">
+Autres
+</a></li>
+
+</ul>
+</div>
